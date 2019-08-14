@@ -11,5 +11,5 @@ module.exports = {
 //     googleClientSecret: 'LyexED-EyDoEegva5Eh-sT7y',
 //     mongoURI:
 //       'mongodb+srv://myuser:c4dTjXbhjNiiVppp@cluster0-qu1au.azure.mongodb.net/test?retryWrites=true&w=majority',
-//     cookieKey: 'thissplaceofmineisthiseplaceofminethatwasthiscplaceofmine'
+//     cookieKey: 'thisplaceofmineisthisplaceofminethatwasthisplaceofmine'
 //   };
